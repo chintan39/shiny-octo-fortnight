@@ -19,6 +19,6 @@ sudo make
 
 python2 c1.py (Run in terminal 1)
 
-python2 c2.py (Run in terminal 1)
+python2 c2.py (Run in terminal 2)
 
 
